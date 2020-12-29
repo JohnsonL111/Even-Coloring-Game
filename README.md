@@ -4,15 +4,16 @@
 <br>
 
 # How-to-Play: 
+
 <br> 
-*Select 1 of the 3 starter boards (displayed as a square matrix) eg.
+<ol>
+<li> Select 1 of the 3 starter boards (displayed as a square matrix) eg.
 <br>
  <br>&nbsp;&nbsp;&nbsp;&nbsp;C0    C1    C2 <br> 
 R0&nbsp; 0 &nbsp; 3 &nbsp;2 <br>
 R1&nbsp; 1 &nbsp; 5 &nbsp;4 <br>
 R2&nbsp; 0 &nbsp; 0 &nbsp;1 <br> 
-<br> 
-<ol>
+</li>
 <li> Select # of games you want to play </li> 
 <br>
 <li> Select # of turns (max # of turns is: # of rows - 1) eg. 4 row board = 3 turns max </li>
