@@ -4,9 +4,9 @@ Scuffed CMPT 120 Final Project 😫
 <How-to-Play>
 (1) Select 1 of the 3 starter boards (displayed as a square matrix)
  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C0    C1    C2 <br> 
-R0 | 0    3     2 <br>
-R1 | 1    5     4 <br>
-R2 | 0    0     1 <br> 
+R0 0&nbsp;3&nbsp;2 <br>
+R1 1&nbsp;5&nbsp;4 <br>
+R2 0&nbsp;0&nbsp;1 <br> 
 
 Figure 1. Starter Board 3 (CX = Column X | RX = Row X)
 (2) Select # of games you want to play
