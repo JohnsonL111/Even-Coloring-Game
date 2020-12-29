@@ -1,4 +1,4 @@
-<Even-Coloring-Game> <br>
+"<Even-Coloring-Game>" <br>
 Scuffed CMPT 120 Final Project 😫
 <br>
 <How-to-Play> <br> 
