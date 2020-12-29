@@ -1,8 +1,9 @@
 # Even-Coloring-Game 
 <br>
-Scuffed CMPT 120 Final Project 😫
+<b> Scuffed CMPT 120 Final Project 😫 </b> 
 <br>
-# How-to-Play <br> 
+# How-to-Play 
+<br> 
 -Select 1 of the 3 starter boards (displayed as a square matrix)
 <br>
  <br>&nbsp;&nbsp;&nbsp;&nbsp;C0    C1    C2 <br> 
