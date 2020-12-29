@@ -7,12 +7,14 @@
 
 <br> 
 <ol>
-<li> Select one of the three starter boards (displayed as a square matrix) eg.
+<li> Select one of the three starter boards (displayed as a square matrix). C = Column and R = Row.
+<br><br>
+ <b> Game Board 3: </b>
 <br>
- <br>&nbsp;&nbsp;&nbsp;&nbsp;C0    C1    C2 <br> 
-R0&nbsp; 0 &nbsp; 3 &nbsp;2 <br>
-R1&nbsp; 1 &nbsp; 5 &nbsp;4 <br>
-R2&nbsp; 0 &nbsp; 0 &nbsp;1 <br> 
+ <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C0 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           C2 <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;R0&nbsp; 0 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;R1&nbsp; 1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;R2&nbsp; 0 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1 <br> 
 </li>
 <li> Select num. of games you want to play </li> 
 <br>
@@ -36,6 +38,7 @@ R2&nbsp; 0 &nbsp; 0 &nbsp;1 <br>
  <li> the largst number of the sums floor divided by 2 will be used in your scoring. </li> 
 <br>
  <li><b> i.e., 11 // 2 = 5 will be used in your scoring </b> </li>
+</ul>
 <br>
 
 # Scoring: Points are added on when you and subtracted when you lose.
@@ -53,33 +56,37 @@ R2&nbsp; 0 &nbsp; 0 &nbsp;1 <br>
 
 # Game Modes
 <br>
--Solo: Play by yourself!
+<b> Solo: </b>
+<ul>
+ <li> Play by yourself! </li>
+</ul>
 <br> 
--AI
-<br>
-* AI will randomly change a digit on the board to a random number on turn after each of you moves.
-<br>
-Note: Max # of turns in AI mode is extended to (# of Rows x # of Columns) -1
-<br>
-i.e., on a 4x4 board the max # of turns per game would be (4x4)-1 = 16-1 = 15 turns
+<b> AI </b>
+<ul>
+ <li> AI will randomly change a digit on the board to a random number on turn after each of you moves. </li>
+ <li> Note: Max # of turns in AI mode is extended to (# of Rows x # of Columns) -1 </li>
+ <li>i.e., on a 4x4 board the max # of turns per game would be (4x4)-1 = 16-1 = 15 turns </li>
+<br><br>
+
+
+# Image Generation
 <br>
 
--Image Generation: An image will generate 
+<b> When a game ends your: </b>
 <br>
-
-When a game ends your:
-<br>
--Sum of Rows list will be converted into a horizontal image consisting of a colored blocks of x pixels wide/tall (determined by user) seperated by a black block of 10 pixels wide/tall.
+<ul>
+<li> Sum of Rows list will be converted into a horizontal image consisting of a colored blocks of x pixels wide/tall (determined by user) seperated by a black block of 10 pixels wide/tall. </li>
 <br> 
--Sum of Columns list will be converted into a vertical image consisting of a colored blocks of x pixels wide/tall (determined by user) seperated by a black block of 10 pixels wide/tall.
+<li> Sum of Columns list will be converted into a vertical image consisting of a colored blocks of x pixels wide/tall (determined by user) seperated by a black block of 10 pixels wide/tall. </li>
 <br>
-* Each number in the list corrsponds to a colour.
+<ul>
+ <li> Each number in the list corrsponds to a colour. </li>
 <br>
-i.e., Sum of rows: [2,3,5]; Sum of Columns: [1,7,11]
+ <li> i.e., Sum of rows: [2,3,5]; Sum of Columns: [1,7,11] </li>
 <br>
-2 corresponds to blue, 3 to red, 5 to brown etc.
+ <li> 2 corresponds to blue, 3 to red, 5 to brown etc. </li>
 <br>
-i.e., for sum of rows expect a blue, red, brown block with a black block seperating each of them. 
+<li> i.e., for sum of rows expect a blue, red, brown block with a black block seperating each of them. </li>
 
 
 
