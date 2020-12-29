@@ -2,9 +2,10 @@
 <br>
 <b> Scuffed CMPT 120 Final Project 😫 </b> 
 <br>
-# How-to-Play 
+
+# How-to-Play: 
 <br> 
--Select 1 of the 3 starter boards (displayed as a square matrix) eg.
+*Select 1 of the 3 starter boards (displayed as a square matrix) eg.
 <br>
  <br>&nbsp;&nbsp;&nbsp;&nbsp;C0    C1    C2 <br> 
 R0&nbsp; 0 &nbsp; 3 &nbsp;2 <br>
@@ -12,13 +13,13 @@ R1&nbsp; 1 &nbsp; 5 &nbsp;4 <br>
 R2&nbsp; 0 &nbsp; 0 &nbsp;1 <br> 
 <br> 
 
--Select # of games you want to play
+* (1) Select # of games you want to play
 <br>
--Select # of turns (max # of turns is: # of rows - 1) eg. 4 row board = 3 turns max
+* (2) Select # of turns (max # of turns is: # of rows - 1) eg. 4 row board = 3 turns max
 <br>
--The user can change 1 digit on the board to any # between 0-9.
+* (3) The user can change 1 digit on the board to any # between 0-9.
 <br>
--Game ends when all turns are used.
+* (4) Game ends when all turns are used.
 <br>
 
 <b> Objective: Make all rows and columns add up to an even number. </b> 
@@ -52,7 +53,7 @@ Note: typing "-1" as your row number will immediately end the current game and c
 <br> 
 -AI
 <br>
-* AI will randomly change a digit on the board to a random number on each turn after each of you moves.
+* AI will randomly change a digit on the board to a random number on turn after each of you moves.
 <br>
 Note: Max # of turns in AI mode is extended to (# of Rows x # of Columns) -1
 <br>
