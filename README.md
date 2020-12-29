@@ -3,7 +3,7 @@ Scuffed CMPT 120 Final Project 😫
 
 <How-to-Play>
 (1) Select 1 of the 3 starter boards (displayed as a square matrix)
-    <br>C0    C1    C2 <br>
+ <br>C0    C1    C2 <br>
     — — — — — — — —  <br>
 R0 | 0    3     2 <br>
 R1 | 1    5     4 <br>
