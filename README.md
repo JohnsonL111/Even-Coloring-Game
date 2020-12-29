@@ -40,13 +40,15 @@ R2&nbsp; 0 &nbsp; 0 &nbsp;1 <br>
 
 # Scoring: Points are added on when you and subtracted when you lose.
 <br>
-i.e., if you lose: -5 points | if you win: +5 points
+<ul>
+ <li> i.e., if you lose: -5 points | if you win: +5 points </li> 
 <br>
--Score will cumulate throughout games.
+ <li> Score will cumulate throughout games. </li>
 <br>
-i.e., if you choose to play 3 games then your score will be changed 3 times and reset to 0 after.
+<li> i.e., if you choose to play 3 games then your score will be changed 3 times and reset to 0 after. </li>
 <br>
-Note: typing "-1" as your row number will immediately end the current game and calculuate the score based on the current board.
+<li> Note: typing "-1" as your row number will immediately end the current game and calculuate the score based on the current board. </li> 
+</ul> 
 <br>
 
 # Game Modes
