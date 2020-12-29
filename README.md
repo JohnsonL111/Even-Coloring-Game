@@ -41,9 +41,10 @@
 </ul>
 <br>
 
-# Scoring: Points are added on when you and subtracted when you lose.
+# Scoring
 <br>
 <ul>
+ <li>  Points are added on when you and subtracted when you lose. </li>
  <li> i.e., if you lose: -5 points | if you win: +5 points </li> 
 <br>
  <li> Score will cumulate throughout games. </li>
@@ -66,6 +67,7 @@
  <li> AI will randomly change a digit on the board to a random number on turn after each of you moves. </li>
  <li> Note: Max # of turns in AI mode is extended to (# of Rows x # of Columns) -1 </li>
  <li>i.e., on a 4x4 board the max # of turns per game would be (4x4)-1 = 16-1 = 15 turns </li>
+</ul>
 <br><br>
 
 
