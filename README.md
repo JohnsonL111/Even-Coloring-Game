@@ -12,28 +12,29 @@ R0&nbsp; 0 &nbsp; 3 &nbsp;2 <br>
 R1&nbsp; 1 &nbsp; 5 &nbsp;4 <br>
 R2&nbsp; 0 &nbsp; 0 &nbsp;1 <br> 
 <br> 
-
-* (1) Select # of games you want to play
+<ol>
+<li> Select # of games you want to play </li> 
 <br>
-* (2) Select # of turns (max # of turns is: # of rows - 1) eg. 4 row board = 3 turns max
+<li> Select # of turns (max # of turns is: # of rows - 1) eg. 4 row board = 3 turns max </li>
 <br>
-* (3) The user can change 1 digit on the board to any # between 0-9.
+<li> The user can change 1 digit on the board to any # between 0-9. </li>
 <br>
-* (4) Game ends when all turns are used.
+<li> Game ends when all turns are used. </li>
 <br>
-
+ </ol> 
 <b> Objective: Make all rows and columns add up to an even number. </b> 
 <br> 
 
 # Point Calculuation: 
 <br>
--The sum of each row and column will be calculuated into two lists
+<ul>
+ <li> The sum of each row and column will be calculuated into two lists </li>
 <br>
-i.e., Sum of rows: [2,3,5]; Sum of Columns: [1,7,11]
+ <li><b> i.e., Sum of rows: [2,3,5]; Sum of Columns: [1,7,11] </b> </li> 
 <br>
--the largst number of the sums floor divided by 2 will be used in your scoring
+ <li> the largst number of the sums floor divided by 2 will be used in your scoring. </li> 
 <br>
-i.e., 11 // 2 = 5 will be used in your scoring
+ <li><b> i.e., 11 // 2 = 5 will be used in your scoring </b> </li>
 <br>
 
 # Scoring: Points are added on when you and subtracted when you lose.
