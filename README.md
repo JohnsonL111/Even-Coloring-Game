@@ -1,6 +1,7 @@
 # Even-Coloring-Game 
 <br>
-<b> Scuffed CMPT 120 Final Project 😫 </b> 
+<b> CMPT 120 Final Project 😫 </b> 
+Play it here! ----> https://repl.it/@CMPT120Game/EvenColoringGame
 <br>
 
 # How-to-Play: 
