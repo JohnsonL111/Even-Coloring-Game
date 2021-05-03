@@ -45,7 +45,7 @@ Play it here! ----> https://repl.it/@CMPT120Game/EvenColoringGame
 # Scoring
 <br>
 <ul>
- <li>  Points are added on when you and subtracted when you lose. </li>
+ <li>  Points are added on when you win and subtracted when you lose. </li>
  <li> i.e., if you lose: -5 points | if you win: +5 points </li> 
 <br>
  <li> Score will cumulate throughout games. </li>
