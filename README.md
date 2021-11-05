@@ -1,6 +1,6 @@
 # Even-Coloring-Game 
 <br>
-<b> CMPT 120 Final Project 😫 </b> 
+<b> Yes this was my CMPT 120 Final Project 😫 </b> 
 Play it here! ----> https://repl.it/@CMPT120Game/EvenColoringGame
 <br>
 
