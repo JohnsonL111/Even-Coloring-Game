@@ -1,8 +1,7 @@
 # Even-Coloring-Game 
 
-# Credits to: CMPT 120 Intro to CS I Final Project 😫
+# CMPT 120 Intro to CS I Final Project 😫
 Play it here! ----> https://repl.it/@CMPT120Game/EvenColoringGame
-
 
 # How-to-Play: 
 
